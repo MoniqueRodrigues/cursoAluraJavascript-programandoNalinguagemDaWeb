@@ -8,6 +8,7 @@ Boas Práticas com Javascript,
 Validação de Formulários,
 Remoção, Delegação e Animação,
 Filtrando uma tabela,
-AjaxBuscando pacientes com AJAX.
+Ajax,
+Buscando pacientes com AJAX.
 
 
