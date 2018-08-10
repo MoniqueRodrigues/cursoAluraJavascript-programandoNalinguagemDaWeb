@@ -1,4 +1,4 @@
--Curso JavaScript: Programando na linguagem da web-
+CURSO JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB:
 
 
 Variáveis e Operadores,
